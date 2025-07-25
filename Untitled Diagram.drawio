@@ -56,7 +56,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4G0LovrCN2Yt_GQHjAdB-30" value="If confidence vote &amp;gt;= 70%" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="4G0LovrCN2Yt_GQHjAdB-30" value="If confidence vote &amp;gt;= 68%" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="770" y="510" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4G0LovrCN2Yt_GQHjAdB-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="4G0LovrCN2Yt_GQHjAdB-32" target="4G0LovrCN2Yt_GQHjAdB-37" edge="1">
@@ -109,7 +109,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4G0LovrCN2Yt_GQHjAdB-44" value="If confidence vote &amp;lt;= 70%&lt;div&gt;AND confidence vote &amp;gt;= 40%&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="4G0LovrCN2Yt_GQHjAdB-44" value="If confidence vote &amp;lt;= 68%&lt;div&gt;AND confidence vote &amp;gt;= 35%&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="710" y="630" width="280" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4G0LovrCN2Yt_GQHjAdB-52" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" parent="1" vertex="1">
