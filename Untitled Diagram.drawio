@@ -224,11 +224,23 @@
         <mxCell id="qIphWISAhspEy-eakopy-17" value="Translation module output" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="530" y="45" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qIphWISAhspEy-eakopy-18" value="Unicode&amp;nbsp;&lt;br&gt;&lt;div&gt;Punctuation&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Tokenization&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="515" y="108" width="90" height="70" as="geometry" />
+        <mxCell id="qIphWISAhspEy-eakopy-20" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Unicode normalization&lt;/span&gt;&lt;br style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;div style=&quot;text-wrap-mode: nowrap;&quot;&gt;Punctuation removal&lt;/div&gt;&lt;div style=&quot;text-wrap-mode: nowrap;&quot;&gt;Lower casing&lt;/div&gt;&lt;div style=&quot;text-wrap-mode: nowrap;&quot;&gt;Tokenization&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="540" y="115" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="qIphWISAhspEy-eakopy-19" value="TI-" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="520" y="228" width="40" height="30" as="geometry" />
+        <mxCell id="qIphWISAhspEy-eakopy-21" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;TF-IDF&lt;/span&gt;&lt;div style=&quot;text-wrap-mode: nowrap;&quot;&gt;Vectorization&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="570" y="230" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qIphWISAhspEy-eakopy-22" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="rBmWavwgrcl2648ARf8u-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="249.5" as="sourcePoint" />
+            <mxPoint x="510" y="249.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qIphWISAhspEy-eakopy-23" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="rBmWavwgrcl2648ARf8u-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="149.5" as="sourcePoint" />
+            <mxPoint x="480" y="149.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
